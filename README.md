@@ -27,6 +27,8 @@ command line:
 ~$ ./helloworld.sh
 hello word
 
+(2) add ! to override  when the file in VI is ready only/
+
 
 ## Honor Pledge
 

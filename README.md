@@ -29,6 +29,13 @@ hello word
 
 (2) add ! to override  when the file in VI is ready only/
 
+(3) still feel pain when learning typing on VI and BASH scripts, they are so different with other development platform
+
+(4)  #whole arithmetic expressions may be placed inside double parenthesis
+         ((ai=a0+a1)), while #$let z=z+1         # --- look Mom, no $ to read a variable.
+         
+(5) stroutput+=' '$ai, advanced string combination
+
 
 ## Honor Pledge
 
@@ -39,4 +46,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Jianhua Li**

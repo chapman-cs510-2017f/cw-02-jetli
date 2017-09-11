@@ -13,10 +13,20 @@ Complete the following exercises, saving your solutions in the indicated files.
 1. Using vim in a terminal, write a bash program ```fibs.sh``` that takes one command line argument `n`, checks whether this argument `n` is a positive integer (exiting with error code 1 if not), then prints the sequence of space-separated Fibonacci numbers "1 1 2 3 5 8 . . . Fn" ending with the `n`th Fibonacci number Fn. Make the script executable in the same way as the previous exercises and verify that it works. Commit the script to GitHub.
 
 ## Assessment
+(1) bash program:
+scrips format:
+#!/bin/bash
+echo "hello word"
+exit 0 #return success
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+command line:
+~$ touch helloworld.sh
+~$ vi helloworld.sh
+~$ cat helloworld.sh
+~$ chmod +x ./helloworld.sh  #don't miss ./ befre helloword.sh
+~$ ./helloworld.sh
+hello word
 
-**CHANGEME**
 
 ## Honor Pledge
 

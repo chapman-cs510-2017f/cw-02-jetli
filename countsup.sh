@@ -1,4 +1,6 @@
 #!/bin/bash
+### Rather than using "read", you can use command line arguments
+### myinput=$1
 read myinput
 echo $myinput
 
